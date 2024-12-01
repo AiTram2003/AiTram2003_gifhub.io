@@ -1,7 +1,3 @@
-# AiTram2003_gifhub.io
-git add .
-git commit -m "Initial commit: Add CV"
-
 <!DOCTYPE html>
 <html> 
   <head>
